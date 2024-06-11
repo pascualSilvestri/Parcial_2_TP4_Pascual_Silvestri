@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|c:\\users\\silve\\onedrive\\escritorio\\parcial_2_tp4_pascual_silvestri\\gestionarchivos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|solutionrelative:gestionarchivos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|c:\\users\\silve\\onedrive\\escritorio\\parcial_2_tp4_pascual_silvestri\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|solutionrelative:register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,11 +15,11 @@
       "RelativeMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|c:\\users\\silve\\onedrive\\escritorio\\parcial_2_tp4_pascual_silvestri\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|solutionrelative:stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|c:\\users\\silve\\onedrive\\escritorio\\parcial_2_tp4_pascual_silvestri\\gestionarchivos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\gestionarchivos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{26BD5479-6BC2-4337-A413-51F808652308}|Parcial_2_TP4_Pascual_Silvestri.csproj|solutionrelative:gestionarchivos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GestionArchivos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\GestionArchivos.aspx.cs",
+              "RelativeDocumentMoniker": "GestionArchivos.aspx.cs",
+              "ToolTip": "C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\GestionArchivos.aspx.cs",
+              "RelativeToolTip": "GestionArchivos.aspx.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:17:07.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Register.aspx.cs",
               "DocumentMoniker": "C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\Register.aspx.cs",
               "RelativeDocumentMoniker": "Register.aspx.cs",
               "ToolTip": "C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\Register.aspx.cs",
               "RelativeToolTip": "Register.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAOAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T13:50:38.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StyleSheet1.css",
               "DocumentMoniker": "C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\StyleSheet1.css",
               "RelativeDocumentMoniker": "StyleSheet1.css",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "StyleSheet1.css",
               "ViewState": "AQIAAHQAAAAAAAAAAAAmwI0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-11T17:04:31.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T17:04:31.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GestionArchivos.aspx",
               "DocumentMoniker": "C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\GestionArchivos.aspx",
               "RelativeDocumentMoniker": "GestionArchivos.aspx",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "GestionArchivos.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-11T17:02:39.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T17:02:39.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Register.aspx",
               "DocumentMoniker": "C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\Register.aspx",
               "RelativeDocumentMoniker": "Register.aspx",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "Register.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-11T00:16:26.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T00:16:26.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\silve\\OneDrive\\Escritorio\\Parcial_2_TP4_Pascual_Silvestri\\Site.Master",
               "RelativeDocumentMoniker": "Site.Master",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-11T00:06:30.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T00:06:30.863Z"
             }
           ]
         }

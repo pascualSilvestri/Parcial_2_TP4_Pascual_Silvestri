@@ -57,9 +57,9 @@ namespace Parcial_2_TP4_Pascual_Silvestri
 
             foreach (HttpPostedFile archivo in FileUpload1.PostedFiles)
             {
-                if (archivo.ContentLength > 1000)
+                if (archivo.ContentLength > 1000000)
                 {
-                    result += $"El archivo {archivo.FileName} supera los 1000 bytes - ";
+                    result += $"El archivo {archivo.FileName} supera los 1mb - ";
                 }
                 else
                 {
