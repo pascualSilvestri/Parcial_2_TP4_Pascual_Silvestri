@@ -8,6 +8,7 @@
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
+    <link type="text/css"  rel="stylesheet" href="StyleSheet1.css" />
 </head>
 <body>
     <nav>
