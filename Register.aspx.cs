@@ -13,5 +13,34 @@ namespace Parcial_2_TP4_Pascual_Silvestri
         {
 
         }
+
+        protected void ButtonRegister_Click(object sender, EventArgs e)
+        {
+            if (Page.IsValid)
+            {
+                string email = TextBoxEmail.Text;
+                string username = TextBoxUsername.Text;
+                int age = int.Parse(TextBoxAge.Text);
+                string password = TextBoxPassword.Text;
+                string repeatPassword = TextBoxRepeatPassword.Text;
+
+                
+                if (age > 15 && password == repeatPassword)
+                {
+                    
+                    HttpCookie passwordCookie = new HttpCookie("UserPassword", password);
+                    passwordCookie.Expires = DateTime.Now.AddMinutes(30); 
+                    Response.Cookies.Add(passwordCookie);
+
+                    // Crear Session con el nombre de usuario
+                    Session["Username"] = username;
+                    Session["Email"] = email;
+
+                    // Redirigir a otra página o mostrar mensaje de éxito
+                    Response.Redirect("GestionArchivos.aspx");
+                }
+              
+            }
+        }
     }
 }
